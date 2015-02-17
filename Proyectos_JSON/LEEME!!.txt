@@ -1,0 +1,3 @@
+-JSON: proyecto descargado de http://www.proyectosimio.com/es/programacion-android-asynctask-conectar-a-internet-y-leer-documentos-json/
+
+-JSONexample: proyecto realizado por Juan Vicente Ordás.
